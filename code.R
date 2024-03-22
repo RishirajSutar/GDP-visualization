@@ -1,10 +1,10 @@
 #================================================================================
 rm(list = ls())
 library(tidyr)
-library(ggplot2)     # Used for creating plots.
-library(gganimate)   # Extends the ggplot2 package with the frame aesthetic.
-library(tweenr)      # Makes the animation smooth.
-library(magick)      # Takes a set of images and coverts them into a .gif format.
+library(ggplot2)     
+library(gganimate)   
+library(tweenr)      
+library(magick)      
 library(gifski)
 library(dplyr)
 library(magrittr)
